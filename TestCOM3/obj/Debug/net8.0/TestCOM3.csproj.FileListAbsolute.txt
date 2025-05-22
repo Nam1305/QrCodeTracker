@@ -39,3 +39,4 @@ D:\Project\ScannerConnector\TestCOM3\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\Project\ScannerConnector\TestCOM3\bin\Debug\net8.0\System.Private.Windows.Core.dll
 D:\Project\ScannerConnector\TestCOM3\bin\Debug\net8.0\zxing.dll
 D:\Project\ScannerConnector\TestCOM3\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\ScannerConnector\TestCOM3\obj\Debug\net8.0\TestCOM3.sourcelink.json

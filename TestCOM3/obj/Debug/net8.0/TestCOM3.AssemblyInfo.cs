@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestCOM3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c6d8356a3233f64251bb8be7ab73cd23b4b752f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestCOM3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestCOM3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

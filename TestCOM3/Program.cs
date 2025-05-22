@@ -21,19 +21,6 @@ class Program
 
             string scannedData = null;
             string filePath = @"C:\Users\vnintern01\Desktop\job_188552_modified.png";
-            _serialPort.DataReceived += (sender, e) =>
-            {
-                scannedData = _serialPort.ReadExisting();
-                Console.WriteLine($"Dữ liệu quét được: {scannedData + "null"}");
-
-            };
-
-
-
-
-            //GenerateQRCode("DISC50600200000100910002101251041511207123051520715308154081550921079600-04704QHN          VN079600-0470AT0000020A316 0000000        00000000", filePath);
-
-
 
             Console.ReadLine(); // Giữ ứng dụng chạy
         }
@@ -102,9 +89,8 @@ class Program
         SerialPort sp = (SerialPort)sender;
         string data = sp.ReadExisting();
         Console.WriteLine($"Nhận dữ liệu: {data}");
-
-
     }
+
     private static void InitializeSerialPort(string portName)
     {
         _serialPort = new SerialPort
