@@ -1,0 +1,14 @@
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.AssemblyInfoInputs.cache
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.AssemblyInfo.cs
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.csproj.CoreCompileInputs.cache
+D:\Project\ScannerConnector\ScannerConnector\bin\Debug\net8.0\ScannerConnector.exe
+D:\Project\ScannerConnector\ScannerConnector\bin\Debug\net8.0\ScannerConnector.deps.json
+D:\Project\ScannerConnector\ScannerConnector\bin\Debug\net8.0\ScannerConnector.runtimeconfig.json
+D:\Project\ScannerConnector\ScannerConnector\bin\Debug\net8.0\ScannerConnector.dll
+D:\Project\ScannerConnector\ScannerConnector\bin\Debug\net8.0\ScannerConnector.pdb
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.dll
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\refint\ScannerConnector.dll
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.pdb
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ScannerConnector.genruntimeconfig.cache
+D:\Project\ScannerConnector\ScannerConnector\obj\Debug\net8.0\ref\ScannerConnector.dll
